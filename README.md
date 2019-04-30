@@ -7,7 +7,10 @@
     <img src="2000px-Universität_Würzburg_Logo.svg.png" alt="uniwue_logo" width="200" align="right" />
   </div>
 </div>  &nbsp;
-
+<br/>
+<br/>
+<br/>
+<br/>
 # HummeL: - **Hum**anities **me**ets **L**earning - 
 ## Challenges for Computational Literary Studies
 ### Workshop at the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases ([ECML-PKDD 2019](http://ecmlpkdd2019.org/))
