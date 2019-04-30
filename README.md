@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# HummeL: Humanities meets Learning - Challenges for Computational Literary Studies
 
 You can use the [editor on GitHub](https://github.com/cophi-wue/ecml19.hummel.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
