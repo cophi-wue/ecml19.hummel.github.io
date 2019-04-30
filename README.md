@@ -24,6 +24,7 @@ Proposals should meet the standards of the ECML conference and not exceed the ma
 - Modeling literary text with deep learning
 - Knowledge representation for literary (long) texts
 - Integrating domain knowledge about literature into machine learning methods <br/>
+
 In addition to that we encourage the submission of late breaking research results with up to 4 pages length.
 ### Important Dates
 Paper Submission Deadline: 14. June 2019 <br/>
