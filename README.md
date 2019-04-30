@@ -4,9 +4,9 @@
 ### Abstract
 Digital Humanities have since their beginning in the 1940s adapted methods from computer science. In recent years the time span between invention in computer science and adaption in Digital Humanities has been reduced dramatically and today applications of ‘traditional’ machine learning and deep learning can be found in many DH papers. Nevertheless, direct exchange between researchers in machine learning and in the digital humanities is still rare. In this workshop, we want to bring together both communities and encourage cooperation between researchers from machine learning, natural language processing and digital humanities.
 ### Important Dates
-Paper Submission Deadline: 14. June 2019
-Acceptance Notification: 12. July 2019
-Camera Ready Submission: 26. July 2019
+Paper Submission Deadline: 14. June 2019 <br/>
+Acceptance Notification: 12. July 2019 <br/>
+Camera Ready Submission: 26. July 2019 <br/>
 ### Workshop Chairs
 Prof. Andreas Hotho, <hotho@informatik.uni-wuerzburg.de> <br/>
 Prof. Fotis Jannidis, <fotis.jannidis@uni-wuerzburg.de> <br/>
