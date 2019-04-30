@@ -1,9 +1,9 @@
 <div class="row">
   <div class="column">
-    <img src="breit_datum.png" alt="ECMLPKDD_Logo" width="320" align="left" />
+    <a href="http://ecmlpkdd2019.org/"><img src="breit_datum.png" alt="ECMLPKDD_Logo" width="320" align="left" /></a>
   </div>
   <div class="column">
-    <img src="2000px-Universität_Würzburg_Logo.svg.png" alt="uniwue_logo" width="200" align="right" />
+    <a href="https://www.uni-wuerzburg.de/startseite/"><img src="2000px-Universität_Würzburg_Logo.svg.png" alt="uniwue_logo" width="200" align="right" /></a>
   </div>
 </div>
 <br/>
