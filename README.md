@@ -15,7 +15,7 @@
 ## Challenges for Computational Literary Studies
 ### Workshop at the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases ([ECML-PKDD 2019](http://ecmlpkdd2019.org/))
 
-Location: Würzburg University <br/>
+Location: Würzburg University, Bavaria, Germany <br/>
 Date: 16. September 2019 <br/>
 
 ### Abstract
