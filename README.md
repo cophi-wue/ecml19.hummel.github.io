@@ -1,4 +1,4 @@
-<img src="breit_datum.png" alt="ECMLPKDD_Logo" class="inline" width="500"/>
+<img src="breit_datum.png" alt="ECMLPKDD_Logo" class="inline" width="1"/>
 
 # HummeL: - **Hum**anities **me**ets **L**earning - 
 ## Challenges for Computational Literary Studies
