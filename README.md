@@ -1,7 +1,7 @@
 <!--- <div class="row"><div class="column"><img src="breit_datum.png" alt="ECMLPKDD_Logo" class="inline" width="340" align="left"/></div>
 <div class="column"><img src="2000px-Universität_Würzburg_Logo.svg.png" alt="uniwue_logo" class="inline" width="200" align="right"/></div></div>
 <br/> -->
-![alt-text-1](breit_datum.png "title-1") ![alt-text-2](2000px-Universität_Würzburg_Logo.svg.png "title-2")
+![alt-text-1](breit_datum.png =250x "title-1") ![alt-text-2](2000px-Universität_Würzburg_Logo.svg.png =250x "title-2")
 # HummeL: - **Hum**anities **me**ets **L**earning - 
 ## Challenges for Computational Literary Studies
 ### Workshop at the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases ([ECML-PKDD 2019](http://ecmlpkdd2019.org/))
