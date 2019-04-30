@@ -1,4 +1,3 @@
-
 <div class="row">
   <div class="column">
     <img src="breit_datum.png" alt="ECMLPKDD_Logo" width="320" align="left" />
@@ -10,7 +9,8 @@
 <br/>
 <br/>
 <br/>
-<br/>
+<br/>  
+
 # HummeL: - Humanities meets Learning - 
 ## Challenges for Computational Literary Studies
 ### Workshop at the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases ([ECML-PKDD 2019](http://ecmlpkdd2019.org/))
