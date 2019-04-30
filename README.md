@@ -27,8 +27,11 @@ Proposals should meet the standards of the ECML conference and not exceed the ma
 In addition to that we encourage the submission of late breaking research results with up to 4 pages length.
 ### Important Dates
 Paper Submission Deadline: 14. June 2019 <br/>
-Acceptance Notification: 12. July 2019 <br/>
-Camera Ready Submission: 26. July 2019 <br/>
+Paper Acceptance Notification: 12. July 2019 <br/>
+Camera Ready Paper Submission: 26. July 2019 <br/>
+Late Breaking Submission Deadline: ?  <br/>
+Late Breaking Acceptance Notification: ?  <br/>
+Camera Ready Late Breaking Submission: ? <br/>
 ### Workshop Chairs
 Prof. Andreas Hotho, <hotho@informatik.uni-wuerzburg.de> <br/>
 Prof. Fotis Jannidis, <fotis.jannidis@uni-wuerzburg.de> <br/>
