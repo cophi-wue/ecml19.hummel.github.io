@@ -1,5 +1,5 @@
-<img src="breit_datum.png" alt="ECMLPKDD_Logo" class="inline" width="200" align="right"/>
-<img src="2000px-Universität_Würzburg_Logo.svg.png" alt="uniwue_logo" class="inline" width="200" align="left"/>
+<img src="breit_datum.png" alt="ECMLPKDD_Logo" class="inline" width="200" align="left"/>
+<img src="2000px-Universität_Würzburg_Logo.svg.png" alt="uniwue_logo" class="inline" width="200" align="right"/>
 # HummeL: - **Hum**anities **me**ets **L**earning - 
 ## Challenges for Computational Literary Studies
 ### Workshop at the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases ([ECML-PKDD 2019](http://ecmlpkdd2019.org/))
