@@ -11,7 +11,7 @@
 <br/>
 <br/>
 <br/>
-# HummeL: - **Hum**anities **me**ets **L**earning - 
+# HummeL: - Humanities meets Learning - 
 ## Challenges for Computational Literary Studies
 ### Workshop at the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases ([ECML-PKDD 2019](http://ecmlpkdd2019.org/))
 
