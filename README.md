@@ -6,7 +6,7 @@
   <div class="column">
     <img src="2000px-Universität_Würzburg_Logo.svg.png" alt="uniwue_logo" width="200" align="right" />
   </div>
-</div>  &nbsp;
+</div>
 <br/>
 <br/>
 <br/>
