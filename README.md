@@ -1,6 +1,6 @@
-# HummeL: Humanities meets Learning - 
+# HummeL: - Humanities meets Learning - 
 ## Challenges for Computational Literary Studies
-
+### Workshop at the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2019)
 
 
 ### Workshop Chairs
