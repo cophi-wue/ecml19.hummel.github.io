@@ -1,4 +1,5 @@
 <img src="breit_datum.png" alt="ECMLPKDD_Logo" class="inline" width="200" align="left"/>
+
 <img src="2000px-Universität_Würzburg_Logo.svg.png" alt="uniwue_logo" class="inline" width="200" align="right"/>
 
 # HummeL: - **Hum**anities **me**ets **L**earning - 
