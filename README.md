@@ -1,5 +1,5 @@
 <body>
-<div class="row"><div class="column"><img src="breit_datum.png" alt="ECMLPKDD_Logo" class="inline" width="310" align="left" /></div><div class="column"><img src="2000px-Universität_Würzburg_Logo.svg.png" alt="uniwue_logo" class="inline" width="200" align="right" /></div></div><div>  &nbsp;
+<div class="row"><div class="column"><img src="breit_datum.png" alt="ECMLPKDD_Logo" class="inline" width="320" align="left" /></div><div class="column"><img src="2000px-Universität_Würzburg_Logo.svg.png" alt="uniwue_logo" class="inline" width="200" align="right" /></div></div><div>  &nbsp;
 
 # HummeL: - **Hum**anities **me**ets **L**earning - 
 ## Challenges for Computational Literary Studies
